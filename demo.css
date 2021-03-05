@@ -1,0 +1,40 @@
+.nav{
+    background-color: #45A151;
+    padding: 10px;
+    text-align: center;
+}
+.menu{
+    background-color: #3C55B5 ; 
+    float: left;
+    padding: 15px;
+    width: 31%;
+    height: 200px;
+}
+.content{
+    background-color: #00AAD2;
+    float: left;
+    padding: 15px;
+    width: 31%;
+    height: 200px;
+}
+.sidebar{
+    background-color: #FF9901;
+    float: left;
+    padding: 15px;
+    width: 31%;
+    height: 200px;
+}
+.footer{
+    background-color: #FF7048;
+    padding: 10px;
+    clear: both;
+    text-align: center;
+}
+.heading{
+    text-align: center;
+}
+.container > div{
+    margin: 5px 0;
+    text-align: center;
+}
+
